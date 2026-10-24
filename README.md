@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/574805d3-5ef3-42e3-9e1d-78a6b86f1f5e" alt="Character illustration" align="left" height="400" />
+<img src="./assets/Joker.png" alt="The Joker tarot card" align="left" height="400" />
 
 ```typescript
 const kirman = {
