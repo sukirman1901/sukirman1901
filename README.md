@@ -10,6 +10,8 @@
 
 <br>
 
+<img src="https://github.com/user-attachments/assets/574805d3-5ef3-42e3-9e1d-78a6b86f1f5e" alt="Character illustration" align="left" height="400" />
+
 ```typescript
 const kirman = {
   name: "Kirman",
@@ -25,7 +27,7 @@ const kirman = {
 };
 ```
 
-<br>
+<br clear="both">
 
 <div align="center">
   <a href="https://nusaiba.dev">Website</a> · <a href="https://x.com/heykirman_">X @heykirman_</a>
