@@ -30,7 +30,7 @@ const kirman = {
 <br clear="both">
 
 <div align="center">
-  <a href="https://nusaiba.dev">Website</a> · <a href="https://x.com/heykirman_">X @heykirman_</a>
+  <a href="https://x.com/heykirman_">@heykirman_</a>
   <br><br>
   <sub>Learning, building, and sharing along the way.</sub>
 </div>
